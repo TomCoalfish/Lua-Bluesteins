@@ -1,0 +1,12 @@
+[submodule "BluesteinCrz"]
+	path = BluesteinCrz
+	url = https://github.com/cpuimage/BluesteinCrz
+[submodule "pffft"]
+	path = pffft
+	url = https://github.com/cpuimage/pffft
+[submodule "Bluestein-Method"]
+	path = Bluestein-Method
+	url = https://github.com/Ganyone/Bluestein-Method
+[submodule "AnySizeFFT"]
+	path = AnySizeFFT
+	url = https://github.com/JuYanYan/AnySizeFFT
